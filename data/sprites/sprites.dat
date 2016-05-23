@@ -1,0 +1,265 @@
+18
+
+Player
+./graphics/sprites/player.bmp
+player
+48
+48
+3
+1
+4
+6 12 13 14 15 16 17 1 150
+6 0 1 2 3 4 5 1 150
+2 11 11 0 100
+2 10 10 0 100
+1
+10
+
+Sock
+./graphics/sprites/sock.bmp
+enemy1
+32
+48
+1
+1
+5
+5 0 1 2 3 4 1 150
+5 7 8 9 10 11 1 150
+2 5 5 0 150
+2 6 6 0 150
+2 12 12 0 100
+1
+1
+
+AppleMon
+./graphics/sprites/applemon.bmp
+enemy2
+32
+48
+2
+1
+5
+4 0 1 2 3 1 150
+4 5 6 7 8 1 150
+2 4 4 0 150
+2 9 9 0 150
+2 10 10 0 50
+1
+3
+
+BrushMon
+./graphics/sprites/brushmon.bmp
+enemy3
+48
+48
+2
+1
+5
+4 0 1 2 3 1 150
+4 7 8 9 10 1 150
+2 4 4 0 150
+2 11 11 0 150
+2 14 14 0 50
+1
+2
+
+Cat
+./graphics/sprites/cat.bmp
+enemy1
+48
+48
+5
+1
+5
+4 0 1 2 3 1 150
+4 5 6 7 8 1 150
+2 4 4 0 150
+2 9 9 0 150
+2 10 10 0 50
+1
+3
+
+Ghost
+./graphics/sprites/ghost.bmp
+enemy5
+48
+48
+0.5
+0
+5
+4 0 1 2 3 1 150
+4 7 8 9 10 1 150
+2 4 4 0 150
+2 11 11 0 150
+2 14 14 0 50
+1
+2
+
+Gingerbread
+./graphics/sprites/gingerbread.bmp
+enemy1
+48
+48
+2
+1
+5
+4 0 1 2 3 1 150
+4 7 8 9 10 1 150
+2 4 4 0 150
+2 11 11 0 150
+2 14 14 0 50
+1
+3
+
+Granny
+./graphics/sprites/granny.bmp
+enemy1
+48
+48
+0.2
+1
+5
+4 0 1 2 3 1 150
+4 7 8 9 10 1 150
+2 6 6 0 150
+2 13 13 0 150
+2 14 14 0 50
+1
+10
+
+Snail
+./graphics/sprites/snail.bmp
+enemy1
+48
+48
+0.5
+1
+5
+4 0 1 2 3 1 150
+4 6 7 8 9 1 150
+2 4 4 0 150
+2 5 5 0 150
+2 10 10 0 100
+1
+5
+
+Stapler
+./graphics/sprites/stapler.bmp
+enemy3
+48
+48
+1
+1
+5
+5 0 1 2 3 4 1 150
+5 7 8 9 10 11 1 150
+2 5 5 0 150
+2 6 6 0 150
+2 12 12 0 150
+1
+3
+
+Sunflora
+./graphics/sprites/sunflora.bmp
+enemy10
+48
+48
+1
+1
+5
+4 0 1 2 3 0 300
+2 4 4 0 150
+2 5 5 0 150
+2 5 5 0 150
+2 6 6 0 150
+1
+2
+
+Bunny
+./graphics/sprites/bunny.bmp
+enemy11
+32
+48
+0.3
+1
+5
+4 0 1 2 3 1 150
+4 5 6 7 8 1 150
+2 4 4 0 150
+2 9 9 0 150
+2 10 10 0 150
+1
+2
+
+ExtraLife
+./graphics/sprites/items.bmp
+life
+16
+16
+0
+1
+1
+1 0 1 1000
+0
+
+RapidFire
+./graphics/sprites/weapon1.bmp
+weapon
+16
+16
+0
+1
+1
+1 0 1 1000
+3
+1 1 90
+
+SpreadShot
+./graphics/sprites/weapon2.bmp
+weapon
+16
+16
+0
+1
+1
+1 0 1 1000
+3
+2 1 200
+
+PowerShot
+./graphics/sprites/weapon3.bmp
+weapon
+16
+16
+0
+1
+1
+1 0 1 1000
+3
+3 2 200
+
+Bullet
+./graphics/sprites/bullet.bmp
+shot
+16
+16
+6
+0
+1
+1 0 1 10000
+1
+1
+ 
+Shot
+./graphics/sprites/shot.bmp
+shot
+16
+16
+6
+0
+1
+1 0 1 1000
+1
+1
+
+
